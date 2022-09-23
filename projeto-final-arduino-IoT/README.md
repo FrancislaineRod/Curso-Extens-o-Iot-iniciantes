@@ -13,6 +13,7 @@ Desenvolvi no Tink card usando uma placa de Arduino Uno.
 <img src="contador-alerta.png">
 
 Código em blocos:
+
 <img src="contador-alerta-codeblock.PNG">
 
 <a href="contador_alerta1.ino">Clique aqui para visualizar o código do projeto</a>
